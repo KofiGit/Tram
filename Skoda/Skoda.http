@@ -1,0 +1,6 @@
+@Skoda_HostAddress = http://localhost:5075
+
+GET {{Skoda_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
